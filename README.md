@@ -20,5 +20,6 @@ A joint project of:
 - **Wave 5** -- 12-28 June 2020, 22,470 respondents.
 - **Wave 7** -- 10-26 July 2020, 19,058 respondents.
 - **Wave 9** -- 7-26 August 2020, 21,196 respondents.
+- **Wave 10** -- 4-27 September 2020, 20,315 respondents.
 
 Waves 4, 6, and 8 have smaller samples (2000-2500 respondents) and can not be used for state-level analysis.
