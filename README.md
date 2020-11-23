@@ -29,4 +29,4 @@ Waves 4, 6, and 8 have smaller samples (2000-2500 respondents) and can not be us
 
 ## Suvey weights
 The data was collected by PureSpectrum via an online, nonprobability sample, with state-level representative quotas for race/ethnicity, age, and gender. In addition to balancing on these dimensions, we reweighted our data using demographic characteristics to match the U.S. population with respect to race/ethnicity, age, gender, education, and living in urban, suburban, or rural areas. 
-For national-level analysis, data weights were based on inerlocking age/gender/race & ethnicity categories, as well as on education, U.S. region, and rural/urban/suburban residence type. For state level analysis, non-interlocking weights for age, gender, race & ethnicity, education, and rural/urban/suburban residence were applied.
+For national-level analysis, data weights were based on interlocking age/gender/race & ethnicity categories, as well as on education, U.S. region, and rural/urban/suburban residence type. For state level analysis, non-interlocking weights for age, gender, race & ethnicity, education, and rural/urban/suburban residence were applied.
