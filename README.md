@@ -14,15 +14,20 @@ A joint project of:
 
 ## Suvey waves
 
-- **Wave 1** -- 17-26 April 2020, 19489 respondents.
-- **Wave 2** -- 2-15 May 2020, 20,305 respondents.
-- **Wave 3** -- 16-31 May 2020, 18,103 respondents.
-- **Wave 5** -- 12-28 June 2020, 22,470 respondents.
-- **Wave 7** -- 10-26 July 2020, 19,058 respondents.
-- **Wave 9** -- 7-26 August 2020, 21,196 respondents.
-- **Wave 10** -- 4-27 September 2020, 20,315 respondents.
-- **Wave 10** -- 4-27 September 2020, 20,315 respondents.
-- **Wave 11** -- 2-23 October 2020, 18,002 respondents. 
+
+- Wave 1: N = 19,489, Time period: 4/16/2020-4/30/2020
+- Wave 2: N =20,305, Time period: 5/2/2020-5/15/2020
+- Wave 3: N =18,103, Time period: 5/16/2020-5/31/2020
+- Wave 4: N = 2,090, Time period: 6/5/20-6/12/20
+- Wave 5: N = 22,470, Time period: 6/12/2020-6/28/2020  
+- Wave 6: N = 1,561, Time period: 7/3/2020-7/10/2020 
+- Wave 7: N = 19,058, Time period: 7/10/2020-7/26/2020
+- Wave 8: N = 2,029, Time period: 7/31/2020 - 8/7/2020   
+- Wave 9: N = 21,196, Time period: 8/7/2020-8/26/2020 
+- Wave 10: N = 20,433, Time period: 9/04/2020-9/28/2020 
+- Wave 11: N  = 18,002, Time period: 10/2/2020-10/23/2020
+- Wave 12: N  = 12,540 Time period: 10/23/20-11/03/2020
+- Wave 13: N = 24,019, Time period: 11/03/2020-11/30/2020
 
 Waves 4, 6, and 8 have smaller samples (2000-2500 respondents) and can not be used for state-level analysis.
 
