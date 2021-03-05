@@ -33,6 +33,8 @@ A joint project of:
 - Wave 12: N  = 12,540 Time period: 10/23/20-11/03/2020
 - Wave 13: N = 24,019, Time period: 11/03/2020-11/30/2020
 - Wave 14: N = 25,640, Time period: 12/16/2020-01/10/2021
+
+
 Waves 4, 6, 8, and 15 have smaller samples (2000-2500 respondents) and can not be used for state-level analysis.
 
 
