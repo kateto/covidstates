@@ -13,7 +13,7 @@ A joint project of:
 - Department of Political Science, Northwestern University
 
 
-#### Note that updated srate-by-state data on health behavior and executive approval is now available through an interactive dashboard at https://lazerlab.shinyapps.io/Behaviors_During_COVID
+#### Note that updated state-by-state data on health behavior and executive approval is now available through an interactive dashboard at https://lazerlab.shinyapps.io/Behaviors_During_COVID
 
 
 ## Suvey waves
